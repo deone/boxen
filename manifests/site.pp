@@ -88,3 +88,7 @@ node default {
     target => $boxen::config::repodir
   }
 }
+
+include vlc
+include alfred
+include python
