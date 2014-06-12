@@ -92,3 +92,4 @@ node default {
 include vlc
 include alfred
 include python
+include virtualbox
