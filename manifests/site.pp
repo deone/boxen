@@ -92,7 +92,6 @@ node default {
 include vlc
 include alfred
 include python
-include virtualbox
 class { 'vagrant':
   completion => true,
 }
